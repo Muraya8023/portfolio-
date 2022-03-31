@@ -1,0 +1,26 @@
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>I am Peter Muraya</h1>
+    <p>And I'm a student at Zetech University.Iam also a part-time developer and i have some projects with me which are already done.</p>
+    <button>My Projects</button>
+  </div>
+</div>
+
+
+<div class="row">
+   <div class="small-12 medium-2 large-2 columns">
+     <div class="square">
+       <img class="project-pic" 
+     </div>
+     <div class="p-image">
+       <i class="fa fa-camera upload-button"></i>
+        <input class="file-upload" type="file" accept="image/*"/>
+     </div>
+  </div>
+</div>
+
+  <p>
+    Email*<input type="text">
+    <p>
+      Name*<input type="text">
+      <p>
